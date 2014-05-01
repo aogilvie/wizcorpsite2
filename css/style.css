@@ -1352,7 +1352,7 @@ form.search-form input[type="submit"],form.search-form button {
 }
 
 header {
-    background: #222;
+    background: #fff;
     z-index: 1000;
     position: absolute;
     top: 0;
@@ -1416,7 +1416,7 @@ nav a,nav a:visited,nav a:focus {
     height: 43px;
     padding: 25px 15px 0 15px;
     text-decoration: none;
-    color: #999;
+    color: #97999c;
     font-weight: normal;
     background: transparent url('../images/SparkEdgeCombined.v1.1.png') center 10px no-repeat;
     -webkit-transition: color 0.2s ease, background 0.2s ease;
@@ -1427,16 +1427,16 @@ nav a,nav a:visited,nav a:focus {
 
 nav a:hover,nav a:focus:hover {
     text-decoration: none;
-    color: #fff;
+    color: #ea6123;
 }
 
 nav a.active,nav a.active:focus {
-    color: #fff;
+    color: #ea6123;
     background: url('../images/SparkEdgeCombined.v1.1.png') center bottom no-repeat;
 }
 
 nav a.active:hover {
-    color: #fff;
+    color: #97999c;
     cursor: default;
 }
 
@@ -1498,7 +1498,7 @@ article .row:last-of-type {
 }
 
 .dark {
-    background: #222;
+    background: #073379;
     color: #aaa;
 }
 
